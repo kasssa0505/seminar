@@ -1,76 +1,87 @@
 录制：Coreference Resolution&爬虫入门
+演讲人：吴泽贤 李吴越
 日期：2025-01-11 15:13:18
 录制文件：https://meeting.tencent.com/crm/NXR9d379cb
 访问密码：2023
 
 录制：深度学习优化算法初解
+演讲人：王俣超 林楚喬
 日期：2025-01-04 15:07:33
 录制文件：https://meeting.tencent.com/crm/Kwmoqm7j1d
 访问密码：2023
 
 录制：RAG简介
+演讲人：李阳
 日期：2024-12-28 15:11:17
 录制文件：https://meeting.tencent.com/crm/2qd0pdmmaa
  
-录制：RAG简介与架构
+录制：RAG简介与架构 大模型评测
+演讲人：张荣升 雍帅
 日期：2024-11-23 15:09:00
 录制文件：https://meeting.tencent.com/crm/NLWnn5Oxd4
 
-录制：Decoder模型
+录制：Decoder模型 NLU
+演讲人：郑煜 屈怡婷
 日期：2024-11-16 15:03:50
 录制文件：https://meeting.tencent.com/crm/2BGnJ7gb6e
 
-录制：NLU
-日期：2024-11-16 15:03:50
-录制文件：https://meeting.tencent.com/crm/2BGnJ7gbb1
+录制：关于聚类
+演讲人：王俣超
+日期：2024-11-09 15:09:42
+录制文件：https://meeting.tencent.com/crm/2yrOBeRN1c
 
-
-录制：Andrew预定的会议
+录制：ICL
+演讲人：林楚喬
 日期：2024-10-26 15:04:05
 录制文件：https://meeting.tencent.com/crm/NL64Qo6Kc9
 
-录制：Andrew预定的会议
+录制：transformer架构
+演讲人：李阳
 日期：2024-10-19 15:14:33
 录制文件：https://meeting.tencent.com/crm/2BZD3Eo213
 
-录制：Andrew预定的会议
+录制：马尔科夫链 大模型微调
+演讲人：张荣升 雍帅
+日期：2024-10-05 15:08:16
+录制文件：https://meeting.tencent.com/crm/KeBEwLW221
+
+录制：Explainable ML 大语言模型中的幻觉现象
+演讲人：郑煜 屈怡婷
 日期：2024-09-28 15:05:23
 录制文件：https://meeting.tencent.com/crm/2MLL4j6K41
 
-录制：Andrew预定的会议
+录制：auto encoder 深度学习基本机制
+演讲人：吴泽贤 李吴越
 日期：2024-09-21 15:01:38
 录制文件：https://meeting.tencent.com/crm/NXzk8DEKc8
 
-录制：Andrew预定的会议
+录制：token  用lama factory做lama微调
+演讲人：王俣超 林楚喬
 日期：2024-09-14 15:06:45
 录制文件：https://meeting.tencent.com/crm/2BBW69X238
 
-录制：Andrew预定的会议
-日期：2024-09-14 15:05:43
-录制文件：https://meeting.tencent.com/crm/KwBWYBjl63
+录制：有关词嵌入
+演讲人：吴泽贤
+日期：2024-08-31 15:28:37
+录制文件：https://meeting.tencent.com/crm/NxYLjWPl00
 
-录制：Andrew预定的会议
-日期：2024-09-07 14:57:51
-录制文件：https://meeting.tencent.com/crm/NABMmXdl8c
-
-录制：Andrew预定的会议
+录制：COT TOT介绍
+演讲人：李阳
 日期：2024-08-07 15:10:10
 录制文件：https://meeting.tencent.com/crm/N1az4E8N59
 
-
-录制：Andrew预定的会议
+录制：对attention机制的理解 深度学习在自然语言处理中的应用
+演讲人：吴泽贤 李吴越
 日期：2024-07-31 15:05:11
-录制文件：https://meeting.tencent.com/crm/KnGLeVM27e
+录制文件：https://meeting.tencent.com/crm/KnGLeVM219
 
-录制：Andrew预定的会议
-日期：2024-07-31 15:05:11
-录制文件：https://meeting.tencent.com/crm/KnGLeVM2c3
-
-录制：Andrew预定的会议
+录制：CNN Mathematical Theorem proving in Natural Language
+演讲人：王俣超 林楚喬
 日期：2024-07-25 15:11:01
 录制文件：https://meeting.tencent.com/crm/2yGL07blef
 
-录制：Andrew预定的会议
+录制：RNN transformer文章
+演讲人：李阳 徐文欣
 日期：2024-07-17 15:44:18
 录制文件：https://meeting.tencent.com/crm/2Vr6o3P276
 
